@@ -98,8 +98,6 @@ const lucas = {
   <img width="49%" src="https://streak-stats.demolab.com?user=lucas-olv-xyz&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-olv-xyz&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&hide_border=true" />
-
 <details>
 <summary>Background</summary>
 <br/>
