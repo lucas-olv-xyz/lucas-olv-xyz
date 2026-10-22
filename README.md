@@ -7,9 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/lucas-olvra"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" /></a>
   <a href="https://linkedin.com/in/lucas-olvra/details/projects"><img src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=58a6ff" /></a>
-  <img src="https://img.shields.io/badge/Bras%C3%ADlia%20%C2%B7%20remote%20%C2%B7%20UTC%E2%88%923-0d1117?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=lucas-olv-xyz&style=flat-square&color=1f6feb&label=views" />
-</p>
+  <img src="https://img.shields.io/badge/Bras%C3%ADlia%20%C2%B7%20remote%20%C2%B7%20UTC%E2%88%923-0d1117?style=flat-square" /></p>
 
 ```ts
 const lucas = {
